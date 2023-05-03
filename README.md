@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jdncpng
 - 👀 I’m interested in web dev., books, and exploring berlin
-- 🌱 I’m currently learning HTML intermediate.
+- 🌱 I’m currently learning R and SQL.
 - 💞️ I’m looking to collaborate on setting up a personal website
 - 📫 How to reach me on github and.. where else?
 
