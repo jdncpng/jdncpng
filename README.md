@@ -1,7 +1,7 @@
 - 👋 Hi, I’m jaeden
 - 👀 I’m interested in data science, books, and exploring berlin
 - 🌱 I’m currently learning R and SQL.
-- 💞️ I’m looking to collaborate on exploring relevant skills as a data scientist
+- 💞️ I’m looking to collaborate on exploring relevant skills as a data scientist, and using Github
 - 📫 How to reach me on github and.. where else? /in/jaedencapinig
 
 <!---
