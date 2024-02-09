@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @jdncpng
-- 👀 I’m interested in web dev., books, and exploring berlin
+- 👋 Hi, I’m jaeden
+- 👀 I’m interested in data science, books, and exploring berlin
 - 🌱 I’m currently learning R and SQL.
-- 💞️ I’m looking to collaborate on setting up a personal website
-- 📫 How to reach me on github and.. where else?
+- 💞️ I’m looking to collaborate on exploring relevant skills as a data scientist
+- 📫 How to reach me on github and.. where else? /in/jaedencapinig
 
 <!---
 jdncpng/jdncpng is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
